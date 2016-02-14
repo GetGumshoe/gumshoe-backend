@@ -1,0 +1,175 @@
+Page1
+Gerald Loeffler
+Head of Development at cortical.io
+Summary
+Gerald Loeffler is a passionate, well-grounded and pragmatic senior solutions architect for software-intensive
+ systems with copious project experience and extensive skills in object-oriented and functional software
+ development on the JVM, Java SE, Java EE, SOA, microservices, ESB-style and message-based integration
+ and related enterprise software technologies and software engineering practices. He has the capability of
+ successfully guiding agile software development teams working in this technology space as team lead,
+ technical project manager, software architect, data scientist or developer. Gerald cherishes working on all
+ levels of abstraction, within and between projects, including high-level architectural analysis, hands-on coding
+ and design, statistical and mathematical modelling, data analysis, coaching and training. Gerald holds a PhD
+ in Bioinformatics, an accredited MBA and an MSc in Psychology. He is certified as: Apache Spark Developer,
+ Java EE Enterprise Architect, EJB Developer, Java Programmer, Mule ESB Developer, MuleSoft Connector
+ Developer, API Designer with RAML, MuleSoft Trainer, ScrumMaster and is PRINCE2 Foundation certified.
+Experience
+Head of Development at cortical.io
+November 2015 - Present (4 months)
+Principal Solutions Architect at MuleSoft Inc
+March 2014 - October 2015 (1 year 8 months)
+initially: Senior Solutions Architect
+Senior Integration Architect at Guidewire Software
+January 2008 - February 2014 (6 years 2 months)
+initially: Integration Architect Customer-facing, project-centred architecture, design, development and
+ training for integrating next-generation core insurance systems into an organisations enterprise IT systems.
+ Guidewire's Technical Lead for the inception, pre-development and early development phases of a largescale
+core insurance systems (policy, billing, claims) replacement project at an insurance carrier in London,
+ UK. 7 Months duration. Large distributed development team. Integration Architect and Guidewire's
+ Technical Lead for the inception and development phases of a project replacing two claims systems of an
+ insurance carrier in Milan, Italy. 18 months duration. Integration Architect and Guidewire's Technical
+ Lead for a project implementing a billing system at an insurance company in Warwickshire, UK. 17 months
+ duration. Delivery of in-depth hands-on technical workshops and presentation of various technical aspects
+ of Guidewire software products to a wide range of audiences in a pre-sales context. Development of training
+Page2
+ courses targeting developers and architects integrating with Guidewire software products, and delivery
+ thereof to several Guidewire customers in the USA.
+Senior Architect/Developer at ObjectLab Financial Ltd
+March 2007 - December 2007 (10 months)
+Enterprise Architect, Team Lead Architecture and Java Software Development at ING-DiBa (ING
+Direct) Austria
+September 2006 - February 2007 (6 months)
+Free Spirit
+June 2006 - August 2006 (3 months)
+Enterprise Software Architect at ShipServ Ltd
+June 2005 - May 2006 (1 year)
+Technical Architect at Capgemini UK
+April 2005 - May 2005 (2 months)
+Consulting Java Architect at Sun Microsystems
+February 2001 - February 2005 (4 years 1 month)
+Software Architect at Research Institute of Molecular Pathology (IMP)
+March 2000 - January 2001 (11 months)
+Freelancer/Contractor in software development at Demonstration Software Consulting
+September 1999 - January 2001 (1 year 5 months)
+Software Developer and Software Architect at Apollo Imaging
+March 1999 - February 2000 (1 year)
+Bioinformatics Scientist at Boehringer Ingelheim R&D
+February 1998 - February 1999 (1 year 1 month)
+Postdoctoral Research Scientist at Research Institute of Molecular Pathology (IMP)
+February 1997 - January 1998 (1 year)
+UNIX system and network administrator at Institute for Theoretical Chemistry, University of Vienna
+December 1994 - May 1996 (1 year 6 months)
+Freelancer/Contractor in software development at Self-employed
+July 1989 - June 1994 (5 years)
+Page3
+Projects
+DirectLine Italia (Italy)
+January 2011 to August 2012
+Members:Gerald L., Bernard Y., Alberto P., Guido E., Tony B.
+Certifications
+Certified Developer on Apache Spark
+O'Reilly Media July 2015
+MuleSoft Certified Trainer
+MuleSoft February 2015
+Associate API Designer with RAML
+MuleSoft December 2014
+Associate MuleSoft Connector Developer
+MuleSoft December 2014
+Certified MuleSoft Developer
+MuleSoft July 2014
+Associate Mule Developer
+MuleSoft March 2014
+CELI 3
+University for Foreigners Perugia June 2013
+Oracle Certified Master Java EE 6 Enterprise Architect
+Oracle April 2013
+Oracle Certified Expert Java EE 6 Enterprise JavaBeans (EJB) Developer
+Oracle March 2013
+Certified ScrumMaster
+Scrum Alliance October 2008
+Guidewire Integration (Technical) Certification
+Guidewire Software January 2008
+Sun Certified Enterprise Architect (SCEA) for the Java Platform, Enterprise Edition 5 (Java EE 5)
+Sun Microsystems December 2007
+Cambridge Certificate of Proficiency in English (CPE)
+University of Cambridge June 2004
+PRINCE2 Foundation
+ April 2003
+Sun Certified Java Programmer
+Sun Microsystems November 1998
+Languages
+English (Full professional proficiency)
+German (Native or bilingual proficiency)
+Italian (Professional working proficiency)
+Page
+4
+Skills & Expertise
+ESB
+Scala
+Apache Spark
+Enterprise Architecture
+Integration Architecture
+Guidewire
+Java Enterprise Edition
+Agile Methodologies
+Software Development
+Scrum
+Java
+Integration
+Architecture
+Web Services
+Solution Architecture
+Spring
+SOAP
+XML
+SOA
+JUnit
+Application Architecture
+UML
+Hibernate
+Software Project Management
+JBoss Application Server
+Tomcat
+Enterprise Software
+Ant
+Middleware
+Agile
+Leadership Development
+Oracle
+Test Driven Development
+Requirements Analysis
+REST
+JMS
+Statistical Programming
+German
+English
+Italian
+Mule ESB
+Agile Project Management
+software
+Architectures
+Page5
+Unix
+Software Engineering
+Continuous Integration
+Core Java
+EAI
+Spring Framework
+Education
+The Open University
+Master of Science (MSc), Psychology, 2009 - 2012
+The Open University Business School
+Master of Business Administration (MBA), Business Administration, 2003 - 2006
+University of Vienna
+Doctor of Philosophy (PhD), Bioinformatics, 1994 - 1997
+University of Vienna
+Master of Science (MSc), Biochemistry, 1987 - 1994
+University of Vienna
+Bachelor of Science (BSc), Biochemistry, 1987 - 1994
+Istituto Dante Alighieri
+Istituto Dante Alighieri
+Istituto Dante Alighieri
+Page6
+Gerald Loeffler
+Head of Development at cortical.io
+Contact Gerald on LinkedIn

@@ -1,0 +1,66 @@
+Page1
+David Ray
+Java Solutions Architect at Cortical.io
+Summary
+Recently established as Numenta.org's lead reviewer/developer of their official open source Java port. https://
+github.com/numenta/htm.java
+Experience
+Java Solutions Architect at cortical.io
+March 2015 - Present (1 year)
+Human cerebral cortex inspired; Natural Language inquiry into Semantic Intelligence.
+Senior Software Engineer at Barchart.com, Inc.
+February 2013 - December 2014 (1 year 11 months)
+Senior Java Developer, Consultant at CME Group
+October 2010 - December 2011 (1 year 3 months)
+Skills & Expertise
+SQL
+CSS
+Software Development
+Java
+XML
+Program Management
+JavaScript
+User Interface Design
+SDLC
+Open Source
+Agile Methodologies
+Linux
+HTML
+Git
+Swing
+Unix
+MySQL
+Scrum
+Software Engineering
+Software Design
+Management
+Page2
+Databases
+Machine Learning
+JSON
+Web Services
+Honors and Awards
+2nd Place Regional Hanggliding Championships
+Interests
+Java Development with emphasis on JavaFX / SWING, Machine Learning open source contributor, Bicycling,
+ Chess
+Certifications
+Certified Java Developer
+Sun Microsystems
+Projects
+Semantic Fingerprinting
+February 2015 to Present
+Members:David R., Taylor P., Peter W., Francisco D., Daniel S., Marie-Pierre G., Erik G., Neil T., Pablo G.,
+ Giangiacomo S., Søren Tjagvad M., Christian W.
+The cortical.io Retina is a biologically-inspired machine intelligence application that learns the semantics of
+ human language. It can encode text into language-independent Semantic Fingerprints, which can be used to
+ make unstructured and textual data computable in a variety of applications.
+Page3
+David Ray
+Java Solutions Architect at Cortical.io
+1 person has recommended David
+"David is bright, productive, and is creative in his software development work. He is very knowledgeable in
+Java, Swing, and client/server development. He is also a quick learner and asks good questions. David is one
+of the best developers I have worked with."
+— Joy K., Senior Software Engineer, CME Group, worked directly with David at CME Group
+Contact David on LinkedIn
