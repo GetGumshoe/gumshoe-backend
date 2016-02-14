@@ -2,22 +2,22 @@ var stephanie=[]
 var xander = []
 var maps = {}
 var fullClient = retinaSDK.FullClient("9d562520-d285-11e5-8378-4dad29be0fab")
+var liteClient = retinaSDK.LiteClient("9d562520-d285-11e5-8378-4dad29be0fab")
 $(document).ready(function(){
   getInfo()
-  window.setTimeout(compare, 3000)
+  window.setTimeout(compare, 1000)
+
 })
 
 var reallyGetInfo = getInfo()
 
 function getInfo(){
-
     getStephanieFacebook()
     getXanderFacebook()
     getXanderLinkedIn()
     getStephanieLinkedIn()
     getSMHTwitter()
     getXTwitter()
-    console.log(stephanie)
   }
 
 function appendImg(img){
@@ -42,6 +42,7 @@ function getXTwitter(){
 function compare(){
   getXPmap()
   getSMHmap()
+  compareBulk()
   // $.get("scraped/XPSON.json", function(response){
     // response["results"]["collection1"].map( tweet => xander.push(tweet["twitter"]))
     fullClient.compareImage({expressions: [{"text": stephanie.join(" ")}, {"text": xander.join(" ")}]}, function(img){
@@ -125,12 +126,18 @@ function compareBulk(){
   // stephanie.map(text => c2.push({"text": text}))
   fullClient.getKeywordsForText({"text": xander.join(" ")}, function(response){
     response.map( term => c1.push({"term": term}))
+    fullClient.getKeywordsForText({"text": stephanie.join(" ")}, function(response){
+      response.map( term => c2.push({"term": term}))
+      console.log(c1)
+      console.log(c2)
+    })
   })
-  fullClient.getKeywordsForText({"text": stephanie.join(" ")}, function(response){
-    response.map( term => c2.push({"term": term}))
-  })
-  fullClient.compareBulk({comparisons: [c1, c2]})
 }
 
+function addAllImgs(){
+  appendImg(maps.xander)
+  appendImg(maps.stephanie)
+  appendImg(maps.comparison)
+}
 
 
