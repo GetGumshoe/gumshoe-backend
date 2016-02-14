@@ -1,0 +1,501 @@
+{
+  "certifications":  {
+    "_total": 3,
+    "values":  [
+       {
+        "authority":  {
+          "name": "USA Triathlon"
+        },
+        "endDate":  {
+          "month": 12,
+          "year": 2014
+        },
+        "id": 43,
+        "name": "Level I Triathlon Coach",
+        "startDate":  {
+          "month": 3,
+          "year": 2013
+        }
+      },
+       {
+        "authority":  {
+          "name": "National Council for Certified Personal Trainers"
+        },
+        "endDate":  {
+          "month": 1,
+          "year": 2015
+        },
+        "id": 5,
+        "name": "Personal Fitness Trainer",
+        "startDate":  {
+          "month": 1,
+          "year": 2013
+        }
+      },
+       {
+        "authority":  {
+          "name": "American Heart Association"
+        },
+        "endDate":  {
+          "month": 12,
+          "year": 2015
+        },
+        "id": 4,
+        "name": "CPR",
+        "startDate":  {
+          "month": 12,
+          "year": 2012
+        }
+      }
+    ]
+  },
+  "courses":  {
+    "_total": 1,
+    "values":  [
+       {
+        "id": 1383256240,
+        "name": "Introduction to Computer Science"
+      }
+    ]
+  },
+  "educations":  {
+    "_total": 4,
+    "values":  [
+       {
+        "endDate":  {
+          "year": 2015
+        },
+        "fieldOfStudy": "Computer Programming",
+        "id": 287489959,
+        "notes": "An intensive 18 week course, half remote, half in San Francisco where students learn programming skills with emphasis on Ruby and JavaScript. ",
+        "schoolName": "Dev Bootcamp",
+        "startDate":  {
+          "year": 2015
+        }
+      },
+       {
+        "degree": "Bachelors in Science",
+        "endDate":  {
+          "year": 2012
+        },
+        "fieldOfStudy": "Environmental Science",
+        "id": 100590121,
+        "schoolName": "University of Virginia",
+        "startDate":  {
+          "year": 2008
+        }
+      },
+       {
+        "endDate":  {
+          "year": 2011
+        },
+        "id": 100590760,
+        "schoolName": "The University of Edinburgh",
+        "startDate":  {
+          "year": 2011
+        }
+      },
+       {
+        "id": 225727599,
+        "schoolName": "Brentsville District High School"
+      }
+    ]
+  },
+  "firstName": "Stephanie",
+  "headline": "Software Developer",
+  "id": "IG78kxHILC",
+  "industry": "Computer Software",
+  "interests": "Travel, Culinary Excellence, Writing, Training, Education, Blogging",
+  "languages":  {
+    "_total": 1,
+    "values":  [
+       {
+        "id": 44,
+        "language":  {
+          "name": "French"
+        }
+      }
+    ]
+  },
+  "lastName": "Hutson",
+  "numRecommenders": 0,
+  "positions":  {
+    "_total": 4,
+    "values":  [
+       {
+        "company":  {
+          "id": 2539266,
+          "industry": "Information Technology and Services",
+          "name": "Dev Bootcamp",
+          "size": "51-200 employees",
+          "type": "Educational Institution"
+        },
+        "id": 725423250,
+        "isCurrent": true,
+        "startDate":  {
+          "month": 6,
+          "year": 2015
+        },
+        "summary": "An 18 week curriculum with over 1200 hours of programming. I worked extensively with pairs, in groups of 4-6 people, and on solo projects. \n\nKey things I learned:\n• Ruby\n• Algorithms\n• JavaScript\n• CSS/HTML\n• R\n• Sinatra\n• Rails (full stack and Rails API)\n• Agile development practices\n• MVC architecture\n• React\n\nThrough Dev Bootcamp I not only gained experience in these technologies, gained experience learning new things quickly, embracing and acknowledging what I don't know so I can better approach a problem. I am now using what I have learned to help other current students understand the concepts. \n",
+        "title": "Apprentice and Mentor"
+      },
+       {
+        "company":  {
+          "name": "Hutson Endurance"
+        },
+        "endDate":  {
+          "month": 6,
+          "year": 2015
+        },
+        "id": 355614394,
+        "isCurrent": false,
+        "startDate":  {
+          "month": 7,
+          "year": 2012
+        },
+        "summary": "Coaching new comer athletes to achieve their goals in endurance sport, mainly running and triathlon. \nWork one on one with athletes, giving advice on form, technique, and training\nProvide weekly training plans to suit their fitness levels, schedules, and their goals.",
+        "title": "Endurance Coach"
+      },
+       {
+        "company":  {
+          "id": 162892,
+          "industry": "Financial Services",
+          "name": "S&P Global Market Intelligence",
+          "size": "10,001+ employees",
+          "ticker": "",
+          "type": "Privately Held"
+        },
+        "endDate":  {
+          "month": 3,
+          "year": 2015
+        },
+        "id": 485090694,
+        "isCurrent": false,
+        "startDate":  {
+          "month": 12,
+          "year": 2013
+        },
+        "summary": "Researching and Reporting the financial information of institutional investors and tax exempt organizations.",
+        "title": "Financial Editor"
+      },
+       {
+        "company":  {
+          "id": 788340,
+          "industry": "Government Administration",
+          "name": "Virginia Department of Environmental Quality",
+          "size": "501-1000 employees",
+          "type": "Government Agency"
+        },
+        "endDate":  {
+          "month": 3,
+          "year": 2013
+        },
+        "id": 355613429,
+        "isCurrent": false,
+        "startDate":  {
+          "month": 5,
+          "year": 2012
+        },
+        "summary": "Developing a GIS database for the Virginia Water Protection Program representing the permits granted since 1990 and their associated permittee responsible mitigation for wetland impacts.",
+        "title": "GIS Specialist"
+      }
+    ]
+  },
+  "recommendationsReceived":  {
+    "_total": 0
+  },
+  "skills":  {
+    "_total": 22,
+    "values":  [
+       {
+        "id": 1,
+        "skill":  {
+          "name": "GIS"
+        }
+      },
+       {
+        "id": 2,
+        "skill":  {
+          "name": "Coaching"
+        }
+      },
+       {
+        "id": 3,
+        "skill":  {
+          "name": "Writing"
+        }
+      },
+       {
+        "id": 4,
+        "skill":  {
+          "name": "Triathlon"
+        }
+      },
+       {
+        "id": 5,
+        "skill":  {
+          "name": "Geology"
+        }
+      },
+       {
+        "id": 6,
+        "skill":  {
+          "name": "Research"
+        }
+      },
+       {
+        "id": 7,
+        "skill":  {
+          "name": "Data Analysis"
+        }
+      },
+       {
+        "id": 8,
+        "skill":  {
+          "name": "Blogging"
+        }
+      },
+       {
+        "id": 9,
+        "skill":  {
+          "name": "Public Speaking"
+        }
+      },
+       {
+        "id": 10,
+        "skill":  {
+          "name": "Ruby"
+        }
+      },
+       {
+        "id": 11,
+        "skill":  {
+          "name": "HTML5"
+        }
+      },
+       {
+        "id": 12,
+        "skill":  {
+          "name": "R"
+        }
+      },
+       {
+        "id": 13,
+        "skill":  {
+          "name": "Python"
+        }
+      },
+       {
+        "id": 14,
+        "skill":  {
+          "name": "Efficiency"
+        }
+      },
+       {
+        "id": 15,
+        "skill":  {
+          "name": "Organization"
+        }
+      },
+       {
+        "id": 16,
+        "skill":  {
+          "name": "Running"
+        }
+      },
+       {
+        "id": 17,
+        "skill":  {
+          "name": "Sports Enthusiast"
+        }
+      },
+       {
+        "id": 18,
+        "skill":  {
+          "name": "Financial Research"
+        }
+      },
+       {
+        "id": 39,
+        "skill":  {
+          "name": "French"
+        }
+      },
+       {
+        "id": 40,
+        "skill":  {
+          "name": "Social Media"
+        }
+      },
+       {
+        "id": 44,
+        "skill":  {
+          "name": "JavaScript"
+        }
+      },
+       {
+        "id": 45,
+        "skill":  {
+          "name": "D3.js"
+        }
+      }
+    ]
+  },
+  "summary": "As a software developer, I am skilled in problem solving, excited about learning and view no challenge as too big or too small; as an individual, I gain energy from the adventure of life and focus on continuously challenging myself mentally, culturally, and physically. \n\nI am a recent graduate of DevBootcamp. I have a background in Environmental Sciences through which I have used GIS, SQL and MatLab, and more recently I have worked extensively with Ruby, JavaScript, R, React, html and css. \n\nI am passionate about many things, including but not limited to environmental and global sustainability, assisting others with personal growth and in bringing people together through empowerment and social equality. \n\nIn the three years since graduating from the University of Virginia, I have assisted the state of Virginia in a wetlands mappings project and later researched and reported information for all global pension funds greater than $50 million. All throughout I have been running a small coaching business, helping athletes achieve goals ranging from a first 5K to completing an Ironman. I decided to pivot my career toward the tech industry where my talents in problem solving and my interest in constant learning are able to blossom. ",
+  "threeCurrentPositions":  {
+    "_total": 1,
+    "values":  [
+       {
+        "company":  {
+          "id": 2539266,
+          "industry": "Information Technology and Services",
+          "name": "Dev Bootcamp",
+          "size": "51-200 employees",
+          "type": "Educational Institution"
+        },
+        "id": 725423250,
+        "isCurrent": true,
+        "location":  {
+          "country":  {
+            "code": "us",
+            "name": "United States"
+          },
+          "name": "San Francisco Bay Area"
+        },
+        "startDate":  {
+          "month": 6,
+          "year": 2015
+        },
+        "summary": "An 18 week curriculum with over 1200 hours of programming. I worked extensively with pairs, in groups of 4-6 people, and on solo projects. \n\nKey things I learned:\n• Ruby\n• Algorithms\n• JavaScript\n• CSS/HTML\n• R\n• Sinatra\n• Rails (full stack and Rails API)\n• Agile development practices\n• MVC architecture\n• React\n\nThrough Dev Bootcamp I not only gained experience in these technologies, gained experience learning new things quickly, embracing and acknowledging what I don't know so I can better approach a problem. I am now using what I have learned to help other current students understand the concepts. \n",
+        "title": "Apprentice and Mentor"
+      }
+    ]
+  },
+  "threePastPositions":  {
+    "_total": 3,
+    "values":  [
+       {
+        "company":  {
+          "name": "Hutson Endurance"
+        },
+        "endDate":  {
+          "month": 6,
+          "year": 2015
+        },
+        "id": 355614394,
+        "isCurrent": false,
+        "location":  {},
+        "startDate":  {
+          "month": 7,
+          "year": 2012
+        },
+        "summary": "Coaching new comer athletes to achieve their goals in endurance sport, mainly running and triathlon. \nWork one on one with athletes, giving advice on form, technique, and training\nProvide weekly training plans to suit their fitness levels, schedules, and their goals.",
+        "title": "Endurance Coach"
+      },
+       {
+        "company":  {
+          "id": 162892,
+          "industry": "Financial Services",
+          "name": "S&P Global Market Intelligence",
+          "size": "10,001+ employees",
+          "ticker": "",
+          "type": "Privately Held"
+        },
+        "endDate":  {
+          "month": 3,
+          "year": 2015
+        },
+        "id": 485090694,
+        "isCurrent": false,
+        "location":  {
+          "country":  {
+            "code": "us",
+            "name": "United States"
+          },
+          "name": "Charlottesville, Virginia Area"
+        },
+        "startDate":  {
+          "month": 12,
+          "year": 2013
+        },
+        "summary": "Researching and Reporting the financial information of institutional investors and tax exempt organizations.",
+        "title": "Financial Editor"
+      },
+       {
+        "company":  {
+          "id": 788340,
+          "industry": "Government Administration",
+          "name": "Virginia Department of Environmental Quality",
+          "size": "501-1000 employees",
+          "type": "Government Agency"
+        },
+        "endDate":  {
+          "month": 3,
+          "year": 2013
+        },
+        "id": 355613429,
+        "isCurrent": false,
+        "location":  {
+          "name": "Woodbridge, VA"
+        },
+        "startDate":  {
+          "month": 5,
+          "year": 2012
+        },
+        "summary": "Developing a GIS database for the Virginia Water Protection Program representing the permits granted since 1990 and their associated permittee responsible mitigation for wetland impacts.",
+        "title": "GIS Specialist"
+      }
+    ]
+  },
+  "volunteer":  {
+    "causes":  {
+      "_total": 5,
+      "values":  [
+         {
+          "name": "economicEmpowerment"
+        },
+         {
+          "name": "education"
+        },
+         {
+          "name": "environment"
+        },
+         {
+          "name": "humanRights"
+        },
+         {
+          "name": "scienceAndTechnology"
+        }
+      ]
+    },
+    "opportunities":  {},
+    "volunteerExperiences":  {
+      "_total": 3,
+      "values":  [
+         {
+          "id": 48,
+          "organization":  {
+            "id": 1152051,
+            "name": "Habitat for Humanity Cabarrus County"
+          },
+          "role": "Volunteer Builder"
+        },
+         {
+          "id": 49,
+          "organization":  {
+            "id": 758762,
+            "name": "St. Baldrick's Foundation"
+          },
+          "role": "Shavee"
+        },
+         {
+          "id": 50,
+          "organization":  {
+            "name": "Mount Vernon"
+          },
+          "role": "Volunteer Archaeologist"
+        }
+      ]
+    }
+  }
+}

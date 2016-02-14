@@ -28,12 +28,12 @@ function compare(){
 }
 
 function getStephanieFacebook(){
-  $.get("smhfb.json", function(response){
+  $.get("scraped/smhfb.json", function(response){
     addFBData(response, stephanie)
   })
 }
 function getXanderFacebook(){
-  $.ajax({url: "xpFB.json"})
+  $.ajax({url: "scraped/xpFB.json"})
   .done(function(response){addFBData(response, xander)})
 }
 function getXanderLinkedIn(){
@@ -43,7 +43,7 @@ function getXanderLinkedIn(){
   })
 }
 function getStephanieLinkedIn(){
-  $.ajax({url: "xpLN.json"})
+  $.ajax({url: "scraped/smhLN.json"})
   .done(function(response){
     addLNData(response, stephanie)
   })
