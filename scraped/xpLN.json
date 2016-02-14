@@ -1,0 +1,593 @@
+{
+  "certifications":  {
+    "_total": 1,
+    "values":  [
+       {
+        "authority":  {
+          "name": "Japanese Ministry of Education"
+        },
+        "id": 286354627,
+        "name": "Japanese Language Proficiency Test Level 2",
+        "startDate":  {
+          "month": 6,
+          "year": 2011
+        }
+      }
+    ]
+  },
+  "educations":  {
+    "_total": 3,
+    "values":  [
+       {
+        "activities": "Pi Kappa Phi",
+        "degree": "Bachelor of Science (B.S.)",
+        "endDate":  {
+          "year": 2009
+        },
+        "fieldOfStudy": "Cognitive Science",
+        "id": 31497703,
+        "schoolName": "University of California, Los Angeles",
+        "startDate":  {
+          "year": 2005
+        }
+      },
+       {
+        "activities": "Japan America Culture & Language Exchange Club (JPAM)",
+        "degree": "Bachelor of Arts (B.A.)",
+        "endDate":  {
+          "year": 2009
+        },
+        "fieldOfStudy": "Japanese",
+        "id": 127477167,
+        "schoolName": "University of California, Los Angeles",
+        "startDate":  {
+          "year": 2005
+        }
+      },
+       {
+        "activities": "Soccer team",
+        "id": 208436490,
+        "notes": "Study abroad in Japan for half a year",
+        "schoolName": "Tsuru University"
+      }
+    ]
+  },
+  "firstName": "Xander",
+  "headline": "Full-Stack Software Engineer",
+  "honorsAwards":  {
+    "_total": 1,
+    "values":  [
+       {
+        "id": 36763873,
+        "issuer": "AngelHack",
+        "name": "Winner (1st Place) AngelHack SF Hackathon 2015"
+      }
+    ]
+  },
+  "id": "oRosLyBndB",
+  "industry": "Computer Software",
+  "languages":  {
+    "_total": 2,
+    "values":  [
+       {
+        "id": 5,
+        "language":  {
+          "name": "Japanese"
+        },
+        "proficiency":  {
+          "level": "PROFESSIONAL_WORKING",
+          "name": "PROFESSIONAL_WORKING"
+        }
+      },
+       {
+        "id": 17,
+        "language":  {
+          "name": "English"
+        },
+        "proficiency":  {
+          "level": "NATIVE_OR_BILINGUAL",
+          "name": "NATIVE_OR_BILINGUAL"
+        }
+      }
+    ]
+  },
+  "lastName": "Peterson",
+  "numRecommenders": 0,
+  "positions":  {
+    "_total": 4,
+    "values":  [
+       {
+        "company":  {
+          "id": 2539266,
+          "industry": "Information Technology and Services",
+          "name": "Dev Bootcamp",
+          "size": "51-200 employees",
+          "type": "Educational Institution"
+        },
+        "endDate":  {
+          "month": 10,
+          "year": 2015
+        },
+        "id": 728287086,
+        "isCurrent": false,
+        "startDate":  {
+          "month": 6,
+          "year": 2015
+        },
+        "summary": "9-week intensive training program for web development, focusing on Ruby on Rails, JavaScript, Test-Driven-Development and Model-View-Controller Frameworks\n\nAccelerated training program in full-stack web development\n\n● 1000+ hours of web development training, including pair programming challenges and fully developed web applications\n● Group web development projects using Ruby, JavaScript, Rails, Sinatra, React, Mapbox, HTML5/CSS, ActiveRecord, and deployment through Heroku\n● Utilized Git and Github for distributed workflow across project teams\n● Test-Driven Development / Behavior-Driven Development (TDD/BD) training and best practices (RSpec, Jasmine, Capybara, Rack)\n● Integrated object-oriented (OO) design patterns and concepts, as well as various Model-View-Controller (MVC) patterns in web applications",
+        "title": "Apprentice"
+      },
+       {
+        "company":  {
+          "name": "Consulate General of Japan in San Francisco"
+        },
+        "endDate":  {
+          "month": 8,
+          "year": 2015
+        },
+        "id": 386671908,
+        "isCurrent": false,
+        "startDate":  {
+          "month": 3,
+          "year": 2013
+        },
+        "summary": "● Designed marketing materials and marketed at over 50 recruiting events, successfully recording the contact information of 1300 people\n● Led the complete interview process for the program twice. Each time personally interviewed 35+ applicants and trained 25+ interviewers to effectively interview 150+ people over 3 days\n● Planned and coordinated 3 large events (150+ attendees) and 3 medium events (80+ attendees), which included orientations, training workshops, panel discussions, and receptions\n● Successfully recruited, interviewed, trained, and sent 326 participants to Japan, with an average job performance evaluation rating of 9.8 out of 10",
+        "title": "Japan Exchange and Teaching (JET) Program Coordinator"
+      },
+       {
+        "company":  {
+          "name": "The Laurasian Institution"
+        },
+        "endDate":  {
+          "month": 3,
+          "year": 2014
+        },
+        "id": 386671487,
+        "isCurrent": false,
+        "startDate":  {
+          "month": 1,
+          "year": 2013
+        },
+        "summary": "●\tGuided a total of 35 high school students and 3 Japanese teachers over two 10-day excursions in 3 US states through all scheduled activities, including arrival/departure at airports, mealtimes, orientation, sightseeing, travel to/from homestay locations, and host school activities\n●\tInterpreted and translated between group members, vendors, students, and others throughout the trip as needed\n●\tEnsured the safety and well-being of all members of the group by keeping the group together and handling medical and other emergency situations\n●\tFacilitated strong “kizuna bonds” between the Japanese group and American culture, language, and people that will continue the positive cycle of international exchange",
+        "title": "Kizuna Project Guide / Kakehashi Project Guide"
+      },
+       {
+        "company":  {
+          "id": 416832,
+          "industry": "International Affairs",
+          "name": "Japan Exchange and Teaching Program(me) (JET)",
+          "size": "1001-5000 employees",
+          "ticker": "",
+          "type": "Government Agency"
+        },
+        "endDate":  {
+          "month": 7,
+          "year": 2012
+        },
+        "id": 81169988,
+        "isCurrent": false,
+        "startDate":  {
+          "month": 7,
+          "year": 2009
+        },
+        "summary": "Miyazaki Prefecture, Miyakonojo City Board of Education\n\n●\tCoordinated with Japanese English teachers to plan, prepare, and conduct 20 classes per week for more than 2,000 students at over 17 different schools for 3 years\n●\tIncreased students' interest in English from average score of 4 to 9 on 10-point scale as recorded on evaluations\n●\tIncorporated multimedia in lessons by creating over 75 videos of American culture and by engaging students and their families with website containing teaching materials and videos\n●\tHosted two real-time Skype sessions between Japanese and American junior high school classes to foster international understanding and interest in each other's culture",
+        "title": "Assistant Language Teacher (ALT)"
+      }
+    ]
+  },
+  "recommendationsReceived":  {
+    "_total": 0
+  },
+  "skills":  {
+    "_total": 45,
+    "values":  [
+       {
+        "id": 1,
+        "skill":  {
+          "name": "Japanese"
+        }
+      },
+       {
+        "id": 2,
+        "skill":  {
+          "name": "Intercultural Communication"
+        }
+      },
+       {
+        "id": 4,
+        "skill":  {
+          "name": "Teaching"
+        }
+      },
+       {
+        "id": 5,
+        "skill":  {
+          "name": "Japanese culture"
+        }
+      },
+       {
+        "id": 6,
+        "skill":  {
+          "name": "Ruby on Rails"
+        }
+      },
+       {
+        "id": 7,
+        "skill":  {
+          "name": "JavaScript"
+        }
+      },
+       {
+        "id": 8,
+        "skill":  {
+          "name": "Ruby"
+        }
+      },
+       {
+        "id": 9,
+        "skill":  {
+          "name": "jQuery"
+        }
+      },
+       {
+        "id": 10,
+        "skill":  {
+          "name": "React"
+        }
+      },
+       {
+        "id": 12,
+        "skill":  {
+          "name": "HTML5"
+        }
+      },
+       {
+        "id": 15,
+        "skill":  {
+          "name": "CSS"
+        }
+      },
+       {
+        "id": 16,
+        "skill":  {
+          "name": "SASS"
+        }
+      },
+       {
+        "id": 17,
+        "skill":  {
+          "name": "International Education"
+        }
+      },
+       {
+        "id": 20,
+        "skill":  {
+          "name": "International Relations"
+        }
+      },
+       {
+        "id": 21,
+        "skill":  {
+          "name": "Language Teaching"
+        }
+      },
+       {
+        "id": 22,
+        "skill":  {
+          "name": "Translation"
+        }
+      },
+       {
+        "id": 24,
+        "skill":  {
+          "name": "Linguistics"
+        }
+      },
+       {
+        "id": 26,
+        "skill":  {
+          "name": "ESL"
+        }
+      },
+       {
+        "id": 27,
+        "skill":  {
+          "name": "Foreign Languages"
+        }
+      },
+       {
+        "id": 30,
+        "skill":  {
+          "name": "Japanese Language Proficiency Test"
+        }
+      },
+       {
+        "id": 33,
+        "skill":  {
+          "name": "Video Games"
+        }
+      },
+       {
+        "id": 34,
+        "skill":  {
+          "name": "Japanese to English translation"
+        }
+      },
+       {
+        "id": 47,
+        "skill":  {
+          "name": "Curriculum Design"
+        }
+      },
+       {
+        "id": 48,
+        "skill":  {
+          "name": "Strategy"
+        }
+      },
+       {
+        "id": 62,
+        "skill":  {
+          "name": "Localization"
+        }
+      },
+       {
+        "id": 63,
+        "skill":  {
+          "name": "Game Development"
+        }
+      },
+       {
+        "id": 65,
+        "skill":  {
+          "name": "Community Management"
+        }
+      },
+       {
+        "id": 66,
+        "skill":  {
+          "name": "Asian Studies"
+        }
+      },
+       {
+        "id": 67,
+        "skill":  {
+          "name": "Qualitative Research"
+        }
+      },
+       {
+        "id": 68,
+        "skill":  {
+          "name": "Cultural Awareness"
+        }
+      },
+       {
+        "id": 69,
+        "skill":  {
+          "name": "Cross-cultural Teams"
+        }
+      },
+       {
+        "id": 70,
+        "skill":  {
+          "name": "Cross-cultural Communication Skills"
+        }
+      },
+       {
+        "id": 71,
+        "skill":  {
+          "name": "Multilingual"
+        }
+      },
+       {
+        "id": 72,
+        "skill":  {
+          "name": "TEFL"
+        }
+      },
+       {
+        "id": 73,
+        "skill":  {
+          "name": "Computer Games"
+        }
+      },
+       {
+        "id": 74,
+        "skill":  {
+          "name": "French"
+        }
+      },
+       {
+        "id": 75,
+        "skill":  {
+          "name": "Policy Analysis"
+        }
+      },
+       {
+        "id": 76,
+        "skill":  {
+          "name": "History"
+        }
+      },
+       {
+        "id": 77,
+        "skill":  {
+          "name": "TESOL"
+        }
+      },
+       {
+        "id": 78,
+        "skill":  {
+          "name": "Volunteer Management"
+        }
+      },
+       {
+        "id": 79,
+        "skill":  {
+          "name": "Globalization"
+        }
+      },
+       {
+        "id": 80,
+        "skill":  {
+          "name": "International Development"
+        }
+      },
+       {
+        "id": 81,
+        "skill":  {
+          "name": "International Project Management"
+        }
+      },
+       {
+        "id": 82,
+        "skill":  {
+          "name": "Program Coordination"
+        }
+      },
+       {
+        "id": 89,
+        "skill":  {
+          "name": "International Exchange"
+        }
+      }
+    ]
+  },
+  "summary": "Passionate and driven software developer with strong professional leadership, educational, and international experience looking for a challenging new position and motivated team to dedicate myself to.",
+  "threeCurrentPositions":  {
+    "_total": 0
+  },
+  "threePastPositions":  {
+    "_total": 3,
+    "values":  [
+       {
+        "company":  {
+          "id": 2539266,
+          "industry": "Information Technology and Services",
+          "name": "Dev Bootcamp",
+          "size": "51-200 employees",
+          "type": "Educational Institution"
+        },
+        "endDate":  {
+          "month": 10,
+          "year": 2015
+        },
+        "id": 728287086,
+        "isCurrent": false,
+        "location":  {
+          "name": "San Francisco, California"
+        },
+        "startDate":  {
+          "month": 6,
+          "year": 2015
+        },
+        "summary": "9-week intensive training program for web development, focusing on Ruby on Rails, JavaScript, Test-Driven-Development and Model-View-Controller Frameworks\n\nAccelerated training program in full-stack web development\n\n● 1000+ hours of web development training, including pair programming challenges and fully developed web applications\n● Group web development projects using Ruby, JavaScript, Rails, Sinatra, React, Mapbox, HTML5/CSS, ActiveRecord, and deployment through Heroku\n● Utilized Git and Github for distributed workflow across project teams\n● Test-Driven Development / Behavior-Driven Development (TDD/BD) training and best practices (RSpec, Jasmine, Capybara, Rack)\n● Integrated object-oriented (OO) design patterns and concepts, as well as various Model-View-Controller (MVC) patterns in web applications",
+        "title": "Apprentice"
+      },
+       {
+        "company":  {
+          "name": "Consulate General of Japan in San Francisco"
+        },
+        "endDate":  {
+          "month": 8,
+          "year": 2015
+        },
+        "id": 386671908,
+        "isCurrent": false,
+        "location":  {
+          "name": "San Francisco, California"
+        },
+        "startDate":  {
+          "month": 3,
+          "year": 2013
+        },
+        "summary": "● Designed marketing materials and marketed at over 50 recruiting events, successfully recording the contact information of 1300 people\n● Led the complete interview process for the program twice. Each time personally interviewed 35+ applicants and trained 25+ interviewers to effectively interview 150+ people over 3 days\n● Planned and coordinated 3 large events (150+ attendees) and 3 medium events (80+ attendees), which included orientations, training workshops, panel discussions, and receptions\n● Successfully recruited, interviewed, trained, and sent 326 participants to Japan, with an average job performance evaluation rating of 9.8 out of 10",
+        "title": "Japan Exchange and Teaching (JET) Program Coordinator"
+      },
+       {
+        "company":  {
+          "name": "The Laurasian Institution"
+        },
+        "endDate":  {
+          "month": 3,
+          "year": 2014
+        },
+        "id": 386671487,
+        "isCurrent": false,
+        "location":  {
+          "name": "Seattle, Washington"
+        },
+        "startDate":  {
+          "month": 1,
+          "year": 2013
+        },
+        "summary": "●\tGuided a total of 35 high school students and 3 Japanese teachers over two 10-day excursions in 3 US states through all scheduled activities, including arrival/departure at airports, mealtimes, orientation, sightseeing, travel to/from homestay locations, and host school activities\n●\tInterpreted and translated between group members, vendors, students, and others throughout the trip as needed\n●\tEnsured the safety and well-being of all members of the group by keeping the group together and handling medical and other emergency situations\n●\tFacilitated strong “kizuna bonds” between the Japanese group and American culture, language, and people that will continue the positive cycle of international exchange",
+        "title": "Kizuna Project Guide / Kakehashi Project Guide"
+      }
+    ]
+  },
+  "volunteer":  {
+    "causes":  {
+      "_total": 3,
+      "values":  [
+         {
+          "name": "children"
+        },
+         {
+          "name": "education"
+        },
+         {
+          "name": "scienceAndTechnology"
+        }
+      ]
+    },
+    "opportunities":  {},
+    "volunteerExperiences":  {
+      "_total": 6,
+      "values":  [
+         {
+          "id": 104847458,
+          "organization":  {
+            "name": "US Japan Exchange & Teaching Alumni Association"
+          },
+          "role": "Board Member"
+        },
+         {
+          "id": 63,
+          "organization":  {
+            "name": "Japan Exchange & Teaching Alumni Association USA (JETAA USA)"
+          },
+          "role": "Country Representative"
+        },
+         {
+          "id": 62,
+          "organization":  {
+            "name": "Japan Exchange & Teaching Alumni Association of Northern California (JETAANC)"
+          },
+          "role": "Membership Chair"
+        },
+         {
+          "id": 65,
+          "organization":  {
+            "name": "Game Developer's Conference"
+          },
+          "role": "Conference Associate"
+        },
+         {
+          "id": 386671909,
+          "organization":  {
+            "name": "Japan America Culture & Language Exchange at UCLA"
+          },
+          "role": "Co-founder and President"
+        },
+         {
+          "id": 47,
+          "organization":  {
+            "name": "La Selva Beach Summer Camp"
+          },
+          "role": "Youth Recreation Specialist"
+        }
+      ]
+    }
+  }
+}
