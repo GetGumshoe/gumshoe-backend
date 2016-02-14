@@ -2,6 +2,7 @@ var fullClient = retinaSDK.FullClient("9d562520-d285-11e5-8378-4dad29be0fab")
 $(document).ready(function(){
   getLink()
   compare()
+  // getTokens()
 })
 function appendImg(img){
     $("body").append( "<img id='compare' src='data:image/jpeg;base64,"+ img +"'/>")
@@ -12,7 +13,6 @@ function getLink(){
   $.get("scraped/amuttican.json", function(response){
     response["results"]["collection1"].map( tweet => tweets.push(tweet["twitter"]))
   fullClient.getImage({expression: {"text": tweets.join()}}, appendImg)
-  // fullClient.
 })}
 
 function compare(){
@@ -23,6 +23,12 @@ function compare(){
   })
 }
 
+// function getTokens(){
+//   fullClient.getSimilarTermsForExpression({expression: {"text": tweets[0]}}, log)
+// }
+function log(response){
+  console.log(response)
+}
 // function appendContext(context){
 //   console.log(context)
 //   var first = context[0].map( y => y.context_label )
